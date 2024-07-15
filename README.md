@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klein181
+- 👋 Hi, I’m Caro
 - 👀 I’m interested in coding and knitting
 - 🌱 I’m currently learning html & css
 - 💞️ I’m looking to collaborate on ...
